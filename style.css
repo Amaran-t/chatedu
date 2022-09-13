@@ -1,0 +1,15 @@
+
+body {
+    height: 100vh;
+    background-image: url(tso.jpeg);
+    background-size: cover;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+ul {
+    height: 50vh;
+    overflow-y: scroll;
+}
